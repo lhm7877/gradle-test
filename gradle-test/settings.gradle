@@ -1,0 +1,5 @@
+rootProject.name = 'gradle-test'
+include 'root'
+include 'library-a'
+include 'library-b'
+
